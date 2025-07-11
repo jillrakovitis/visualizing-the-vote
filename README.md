@@ -28,12 +28,6 @@ This Tableau dashboard explores key metrics related to U.S. voter turnout and el
 
 ---
 
-##  Dashboard Preview
-
-
-Or view the full Tableau workbook in this repo*
-
----
 
 ##  Why This Project?
 

@@ -1,2 +1,51 @@
-# visualizing-the-vote
-Tableau project analyzing U.S. presidential election patterns with a focus on party shifts, swing states, and visual storytelling.
+# Visualizing the Vote – Tableau Dashboard Project
+
+This project explores patterns in U.S. presidential elections using Tableau. I created an interactive dashboard to highlight how voting behavior, electoral trends, and candidate performance have shifted over time.
+
+The goal was to turn a large dataset into something clear and compelling — not just for analysts, but for anyone curious about how our elections play out across states and decades.
+
+---
+
+##  Project Overview
+
+- Cleaned and organized historical election data
+- Built visuals to explore vote share by party, state-by-state outcomes, and swing state patterns
+- Focused on simplicity and storytelling through design
+- Packaged the final dashboard in Tableau for easy interaction and presentation
+
+---
+
+##  Tools Used
+
+- Tableau (dashboard development)
+- Excel (data cleaning)
+- Canva (supporting visuals and layout prep)
+
+---
+
+##  Dashboard Preview
+
+
+Or view the full Tableau workbook in this repo*
+
+---
+
+##  Why This Project?
+
+I wanted to practice building a clean, strategic dashboard that could explain real-world data to a general audience. Elections felt like a great topic — the data is rich, the stakes are high, and the story is always evolving.
+
+---
+
+##  Files Included
+
+- `Jill.Rakovitis.Presidential.Presentation.twb` – Tableau workbook
+- `data/` – Supporting files (optional)
+- `dashboards/` – Add screenshots here to preview the visuals
+
+---
+
+##  About Me
+
+Hi, I’m Jill. I’m a data analyst with a background in fashion and creative strategy. I love bringing design, storytelling, and analytics together — and this dashboard was a fun way to stretch those muscles.
+
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/jillrakovitis)

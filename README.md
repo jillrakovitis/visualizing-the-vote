@@ -18,8 +18,13 @@ The goal was to turn a large dataset into something clear and compelling — not
 ##  Tools Used
 
 - Tableau (dashboard development)
-- Excel (data cleaning)
-- Canva (supporting visuals and layout prep)
+
+## Dashboard Preview
+
+This Tableau dashboard explores key metrics related to U.S. voter turnout and electoral trends, using data storytelling to make political patterns more accessible and visually compelling.
+
+![Presidential Dashboard](https://github.com/jillrakovitis/visualizing-the-vote/blob/main/Presidental.Dashboard.png?raw=true)
+
 
 ---
 
